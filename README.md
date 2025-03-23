@@ -17,7 +17,7 @@
 
 ---
 
-## 👨🏻‍💻💻Arthur Henrique
+## 👨🏻‍💻💻Sobre mim:
 
 Meu nome é Arthur, estudante de técnico de Desenvolvimento de Sistemas (período noturno) e ensino médio integrado ao técnico de administração (período vespertino)
 
