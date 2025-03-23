@@ -1,4 +1,4 @@
-## Seja bem vindo! Eu sou o Arthur
+## Seja bem vindo! Eu sou o Arthur 😎
 
  <div>
    <a href="https://github.com/arthurhenrique-Dev">
