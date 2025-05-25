@@ -7,8 +7,10 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,11 +22,11 @@
 
 ## 👨🏻‍💻💻Sobre mim:
 
-Meu nome é Arthur, estudante de técnico de Desenvolvimento de Sistemas (período noturno) e ensino médio integrado ao técnico de administração (período vespertino)
+Meu nome é Arthur, estudante de técnico de Desenvolvimento de Sistemas (período noturno)
 
 <br>
 
 
 - 🔭 Estudante de Desenvolvimento de Sistemas
-- 🌱 Estudando Java
+- 🌱 Estudando Spring Boot
 - 📫 Contato: henriquearthur.dev@gmail.com
