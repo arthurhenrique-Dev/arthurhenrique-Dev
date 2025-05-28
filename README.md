@@ -30,3 +30,5 @@ Meu nome é Arthur, estudante de técnico de Desenvolvimento de Sistemas (perío
 - 🔭 Estudante de Desenvolvimento de Sistemas
 - 🌱 Estudando Spring Boot
 - 📫 Contato: henriquearthur.dev@gmail.com
+- 💼 Linkedin: www.linkedin.com/in/arthur-henrique-dev
+
