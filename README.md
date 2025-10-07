@@ -19,7 +19,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 <div>
-  <a href="www.linkedin.com/in/arthur-henrique-dev">
+  <a href="https://www.linkedin.com/in/arthur-henrique-dev">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="www.linkedin.com/in/arthur-henrique-dev">
