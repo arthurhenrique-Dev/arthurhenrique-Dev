@@ -1,13 +1,11 @@
 ### Seja bem vindo! Eu sou o Arthur Henrique😉
 
-<br>
-
 - 🔭 Formando técnico em desenvolvimento de sistemas
 - 🌱 Atualmente estudando os seguintes conceitos: (Arquitetura limpa e validação)
 - 📖 Me profissionalizando em Spring Boot e pretendo estudar Angular como front-end
 
 ### Conhecimento:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Java" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Spring Boot" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
   <img align="center" alt="PostgreSQL" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
