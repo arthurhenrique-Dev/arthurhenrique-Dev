@@ -4,7 +4,6 @@
 🔹 Estudando no momento: **Arquitetura Limpa** e **Validação**  
 🔹 Me profissionalizando em **Spring Boot** e planejando estudar **Angular** como front-end  
 
----
 
 ## 💻 Tecnologias e Conhecimentos
 
@@ -14,6 +13,16 @@
   <img align="center" alt="PostgreSQL" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
   <img align="center" alt="Docker" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </div>
+
+---
+
+## 🚀 Meus Projetos
+
+### CatOng-API
+- **Repositório:** (https://github.com/arthurhenrique-Dev/CatOng-API)
+- **Arquitetura:** Arquitetura limpa
+- **Tecnologias:** Spring Boot, Spring Security, JUnit/Mockito, PostgreSQL, Docker  
+- **Descrição:** API completa escalavel e robusta pra uma ong ficticia, construida em arquitetura limpa, com autenticação JWT, gerenciamento de pets e usuários.
 
 ---
 
@@ -28,13 +37,6 @@
 
 ---
 
-## 🚀 Meus Projetos
-
-### CatOng-API
-- **Repositório:** (https://github.com/arthurhenrique-Dev/CatOng-API)
-- **Arquitetura:** Arquitetura limpa
-- **Tecnologias:** Spring Boot, Spring Security, JUnit/Mockito, PostgreSQL, Docker  
-- **Descrição:** API completa escalavel e robusta pra uma ong ficticia, construida em arquitetura limpa, com autenticação JWT, gerenciamento de pets e usuários.
 
 ## 📫 Contato
 
