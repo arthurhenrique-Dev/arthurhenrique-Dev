@@ -29,16 +29,6 @@
 <a href="https://www.linkedin.com/in/arthur-henrique-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
-  
----
-
-## 🚀 Meus Projetos
-
-### CatOng-API
-- **Repositório:** [CatOng-API](https://github.com/arthurhenrique-Dev/CatOng-API)
-- **Arquitetura:** Arquitetura limpa
-- **Tecnologias:** Spring Boot, Spring Security, JUnit/Mockito, PostgreSQL, Docker  
-- **Descrição:** API completa escalavel e robusta pra uma ong ficticia, construida em arquitetura limpa, com autenticação JWT, gerenciamento de pets e usuários.
 
 
 <picture align="center">
