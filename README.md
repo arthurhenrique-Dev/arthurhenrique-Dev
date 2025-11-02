@@ -18,8 +18,8 @@
 <img align="right" src="https://github.com/user-attachments/assets/5e7ab744-5139-4462-9dd1-bbc7dfcd1836" alt="Image" width="200"/>
 <div>
   <a href="https://github.com/arthurhenrique-Dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=8300ff&icon_color=00ff99&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=8300ff&text_color=ffffff&bg_color=0d1117"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=8300ff&icon_color=00ff99&text_color=ffffff"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=8300ff&text_color=ffffff&bg_color=0d1117"/>
   </a>
 </div>
 <div>
