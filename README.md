@@ -12,8 +12,6 @@
   <img alt="Docker" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </div>
 
----
-
 ## 📊 Estatísticas do Github
 <img align="right" src="https://github.com/user-attachments/assets/5e7ab744-5139-4462-9dd1-bbc7dfcd1836" alt="Image" width="200"/>
 <div>
