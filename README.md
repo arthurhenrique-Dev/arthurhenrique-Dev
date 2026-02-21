@@ -1,17 +1,18 @@
 # 👋 Olá! Eu sou Arthur Henrique
 
-🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**  
-🔹 Estudando no momento: **Arquitetura Limpa** e **Validação**  
-🔹 Me profissionalizando em **Spring Boot** e planejando estudar **Angular** como front-end  
+🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**<br>
+🔹 Programador Java com Spring Boot <br>
+🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Unitários e Documentação
+
 
 ## 💻 Tecnologias
 <div style="display: inline_block">
-  <img alt="Java" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Spring Boot" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img alt="JavaScript" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img alt="TypeScript" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img alt="PostgreSQL" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
-  <img alt="Docker" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="Java" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring Boot" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="JavaScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img alt="PostgreSQL" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
+  <img alt="Docker" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </div>
 
 ## 📊 Estatísticas do Github
