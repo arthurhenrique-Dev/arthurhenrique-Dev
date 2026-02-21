@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Arthur Henrique
 
 🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**<br>
-🔹 Programador Java com Spring Boot <br>
+🔹 Programador **Java** com **Spring Boot** <br>
 🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Unitários e Documentação
 
 
