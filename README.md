@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Arthur Henrique
 
-🔹 Formando técnico em **Desenvolvimento de Sistemas**  
+🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**  
 🔹 Estudando no momento: **Arquitetura Limpa** e **Validação**  
 🔹 Me profissionalizando em **Spring Boot** e planejando estudar **Angular** como front-end  
 
@@ -18,16 +18,17 @@
 <img align="right" src="https://github.com/user-attachments/assets/5e7ab744-5139-4462-9dd1-bbc7dfcd1836" alt="Image" width="200"/>
 <div>
   <a href="https://github.com/arthurhenrique-Dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=8300ff&icon_color=00ff99&text_color=ffffff"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=8300ff&text_color=ffffff&bg_color=0d1117"/>
+    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
+    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=FF2C2C&icon_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
   </a>
 </div>
 <div>
 <a href="mailto:henriquearthur.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</a>
 <a href="https://www.linkedin.com/in/arthur-henrique-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </div>
 
 
