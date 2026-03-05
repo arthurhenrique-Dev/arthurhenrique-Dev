@@ -2,7 +2,7 @@
 
 🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**<br>
 🔹 Programador **Java** com **Spring Boot** <br>
-🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Unitários e Documentação
+🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Unitários, Documentação e Conteinerização
 
 
 ## 💻 Tecnologias
