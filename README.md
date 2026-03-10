@@ -2,7 +2,7 @@
 
 🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**<br>
 🔹 Programador **Java** com **Spring Boot** <br>
-🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Unitários, Documentação e Conteinerização
+🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Automatizados, Documentação e Conteinerização
 
 
 ## 💻 Tecnologias
@@ -12,6 +12,7 @@
   <img alt="JavaScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img alt="PostgreSQL" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
+  <img alt="Redis" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg"/>
   <img alt="MongoDB" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
   <img alt="Docker" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </div>
