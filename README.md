@@ -4,7 +4,6 @@
 🔹 Programador **Java** com **Spring Boot** <br>
 🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Automatizados, Documentação, Conteinerização, Cache, Mensageria e CI/CD
 
-
 ## 💻 Tecnologias
 <div style="display: inline_block">
   <img alt="Java" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
