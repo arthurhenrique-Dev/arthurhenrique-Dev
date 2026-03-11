@@ -7,23 +7,22 @@
 
 ## 💻 Tecnologias
 <div style="display: inline_block">
-  <img alt="Java" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Spring Boot" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img alt="PostgreSQL" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
-  <img alt="Redis" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg"/>
-  <img alt="MongoDB" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
-  <img alt="Docker" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img alt="RabbitMQ" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
-  <img alt="GithubActions" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
-  <img alt="TypeScript" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img alt="Java" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring Boot" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="PostgreSQL" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
+  <img alt="Redis" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg"/>
+  <img alt="MongoDB" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
+  <img alt="Docker" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="RabbitMQ" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
+  <img alt="GithubActions" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
 </div>
 
 ## 📊 Estatísticas do Github
 <img align="right" src="https://github.com/user-attachments/assets/5e7ab744-5139-4462-9dd1-bbc7dfcd1836" alt="Image" width="200"/>
 <div>
   <a href="https://github.com/arthurhenrique-Dev">
-    <img height="156em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
-    <img height="156em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=FF2C2C&icon_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
+    <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
+    <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=FF2C2C&icon_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
   </a>
 </div>
 <div>
