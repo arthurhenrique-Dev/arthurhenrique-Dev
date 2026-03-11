@@ -15,7 +15,7 @@
   <img alt="Docker" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img alt="RabbitMQ" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
   <img alt="GithubActions" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
-  <img alt="TypeScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img alt="TypeScript" height="56" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 </div>
 
 ## 📊 Estatísticas do Github
