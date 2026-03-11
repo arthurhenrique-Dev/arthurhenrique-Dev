@@ -2,27 +2,29 @@
 
 🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**<br>
 🔹 Programador **Java** com **Spring Boot** <br>
-🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Automatizados, Documentação e Conteinerização
+🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Automatizados, Documentação, Conteinerização, Cache, Mensageria e CI/CD
 
 
 ## 💻 Tecnologias
 <div style="display: inline_block">
-  <img alt="Java" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Spring Boot" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img alt="JavaScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img alt="TypeScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img alt="PostgreSQL" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
-  <img alt="Redis" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg"/>
-  <img alt="MongoDB" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
-  <img alt="Docker" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="Java" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring Boot" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="JavaScript" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img alt="PostgreSQL" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
+  <img alt="Redis" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg"/>
+  <img alt="MongoDB" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
+  <img alt="Docker" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="RabbitMQ" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
+  <img alt="GithubActions" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
 </div>
 
 ## 📊 Estatísticas do Github
 <img align="right" src="https://github.com/user-attachments/assets/5e7ab744-5139-4462-9dd1-bbc7dfcd1836" alt="Image" width="200"/>
 <div>
   <a href="https://github.com/arthurhenrique-Dev">
-    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
-    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=FF2C2C&icon_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
+    <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
+    <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=FF2C2C&icon_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
   </a>
 </div>
 <div>
