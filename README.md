@@ -20,8 +20,8 @@
 <img align="right" src="https://github.com/user-attachments/assets/5e7ab744-5139-4462-9dd1-bbc7dfcd1836" alt="Image" width="200"/>
 <div>
   <a href="https://github.com/arthurhenrique-Dev">
-    <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
-    <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=FF2C2C&icon_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
+    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
+    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=FF2C2C&icon_color=FF2C2C&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
   </a>
 </div>
 <div>
