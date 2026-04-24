@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou Arthur Henrique
+# 👋 Hello! I'm Arthur Henrique
 
-🔹 Formando bacharel em **Engenharia de Software** e técnico em **Desenvolvimento de Sistemas**<br>
-🔹 Programador **Java** com **Spring Boot** <br>
-🔹 Conhecimentos: Arquitetura Limpa, Hexagonal e MVC, Validação, Testes Automatizados, Documentação, Conteinerização, Cache, Mensageria, CI/CD e Cloud
+🔹 Bachelor's student in **Software Engineering** and **Systems Development** Technician<br>
+🔹 **Java** Programmer with **Spring Boot** <br>
+🔹 Knowledge: Clean, Hexagonal and MVC Architecture, Validation, Automated Testing, Documentation, Containerization, Cache, Messaging, CI/CD and Cloud
 
-## 💻 Tecnologias
+## 💻 Technologies
 <p align="center">
   <img alt="Java" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
   <img alt="Spring Boot" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;
@@ -19,12 +19,12 @@
   <img alt="Azure" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </p>
 
-## 📊 Estatísticas do Github
+## 📊 GitHub Stats
 <img align="right" src="https://github.com/user-attachments/assets/5e7ab744-5139-4462-9dd1-bbc7dfcd1836" alt="Image" width="200"/>
 <div>
   <a href="https://github.com/arthurhenrique-Dev">
-    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=9825F5&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle"/>
-    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=9825F5&icon_color=9825F5&text_color=c9d1d9&bg_color=0d1117" alt="minhas estatísticas" align="middle"/>
+    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=9825F5&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" align="middle"/>
+    <img height="150em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=9825F5&icon_color=9825F5&text_color=c9d1d9&bg_color=0d1117" alt="My Statistics" align="middle"/>
   </a>
 </div>
 <div>
@@ -42,8 +42,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurhenrique-Dev/arthurhenrique-Dev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthurhenrique-Dev/arthurhenrique-Dev/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
