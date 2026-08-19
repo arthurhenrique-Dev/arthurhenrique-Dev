@@ -55,18 +55,6 @@ Sou apaixonado por construir **sistemas distribuídos escaláveis** e **APIs de 
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| 🏡 **[Nookio](https://github.com/arthurhenrique-Dev/nookio-api)** | Plataforma imobiliária de microsserviços de alta escala (7 serviços, 25K+ usuários simultâneos) | Java, Spring Cloud, Kafka, K8s, Terraform, Prometheus |
-| 💬 **[Conecta](https://github.com/arthurhenrique-Dev/Conecta)** | Plataforma de comunicação escolar — em produção, 75% de cobertura de testes | Java, Spring Boot, Angular, PostgreSQL, MongoDB, Docker |
-| 🎮 **[Quack](https://github.com/arthurhenrique-Dev/Quack)** | API de rede social para críticas de jogos com Clean Architecture + DDD | Java, Spring Boot, PostgreSQL, MongoDB, Redis, JWT + 2FA |
-
----
-
-## 📊 Estatísticas do GitHub
-
 <div align="center">
   <a href="https://github.com/arthurhenrique-Dev">
     <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=arthurhenrique-Dev&layout=compact&hide_border=true&title_color=9825F5&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens Mais Usadas"/>
@@ -74,8 +62,6 @@ Sou apaixonado por construir **sistemas distribuídos escaláveis** e **APIs de 
     <img height="160em" src="https://github-readme-stats-rmcl.vercel.app/api?username=arthurhenrique-Dev&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&title_color=9825F5&icon_color=9825F5&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub"/>
   </a>
 </div>
-
----
 
 <div align="center">
   <a href="mailto:henriquearthur.dev@gmail.com">
@@ -86,6 +72,15 @@ Sou apaixonado por construir **sistemas distribuídos escaláveis** e **APIs de 
   </a>
 </div>
 
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| 🏡 **[Nookio](https://github.com/arthurhenrique-Dev/nookio-api)** | Plataforma imobiliária de microsserviços de alta escala (7 serviços, 25K+ usuários simultâneos) | Java, Spring Cloud, Kafka, K8s, Terraform, Prometheus |
+| 💬 **[Conecta](https://github.com/arthurhenrique-Dev/Conecta)** | Plataforma de comunicação escolar — em produção, 75% de cobertura de testes | Java, Spring Boot, Angular, PostgreSQL, MongoDB, Docker |
+| 🎮 **[Quack](https://github.com/arthurhenrique-Dev/Quack)** | API de rede social para críticas de jogos com Clean Architecture + DDD | Java, Spring Boot, PostgreSQL, MongoDB, Redis, JWT + 2FA |
 <br>
 
 <picture align="center">
