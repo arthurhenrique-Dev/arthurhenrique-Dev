@@ -25,6 +25,7 @@ Sou apaixonado por construir **sistemas distribuídos escaláveis** e **APIs de 
   <img alt="RabbitMQ" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />&nbsp;&nbsp;
   <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img alt="Nginx" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />&nbsp;&nbsp;
+  <img alt="GithubActions" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />&nbsp;&nbsp;
   <img alt="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;
   <img alt="Angular" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />&nbsp;&nbsp;
   <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
